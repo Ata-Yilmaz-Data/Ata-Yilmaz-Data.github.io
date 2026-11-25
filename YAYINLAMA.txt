@@ -1,6 +1,1 @@
-1. GitHub hesabına giriş yap.
-2. Yeni public repository oluştur: Ata-Yilmaz-Data.github.io (hesap adın farklıysa kendi kullanıcı adını kullan).
-3. ZIP içindeki index.html ve assets klasörünü repository köküne yükle (Add file > Upload files). Commit changes.
-4. Settings > Pages > Build and deployment > Deploy from a branch > main > / (root) > Save.
-5. Pages ekranında yayınlanan URL'yi kontrol et. Site adresi normalde https://ata-yilmaz-data.github.io/ olur.
-Not: Kişisel portföy amaçlıdır. CV, telefon, ham müşteri verisi veya oturum belgesi eklenmemiştir. Dashboard görsellerini ve PDF'i kamuya açmadan önce paylaşım uygunluğunu kontrol et.
+GitHub repo: once index.html dosyasini ana dizine yukleyip commit yapin. Ardindan assets klasorune girip ZIP icindeki assets dosyalarini yukleyin ve commit yapin. Pages ayarlarini degistirmeyin. Ctrl+F5 ile kontrol edin.
