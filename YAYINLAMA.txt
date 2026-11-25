@@ -1,1 +1,0 @@
-GitHub repo: once index.html dosyasini ana dizine yukleyip commit yapin. Ardindan assets klasorune girip ZIP icindeki assets dosyalarini yukleyin ve commit yapin. Pages ayarlarini degistirmeyin. Ctrl+F5 ile kontrol edin.
